@@ -4,6 +4,7 @@ title: "DCPI-RWR: cross-release multicancer gene prioritization with degree-cond
 type: software
 version: 1.0.0
 date-released: 2026-10-16
+doi: 10.5281/zenodo.23408226
 license: MIT
 repository-code: "https://github.com/lhyzyt2001/DCPI-RWR"
 url: "https://github.com/lhyzyt2001/DCPI-RWR"

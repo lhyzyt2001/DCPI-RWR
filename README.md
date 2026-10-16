@@ -3,6 +3,7 @@
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Release: v1.0.0](https://img.shields.io/badge/release-v1.0.0-5c6bc0.svg)](https://github.com/lhyzyt2001/DCPI-RWR/releases/tag/v1.0.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23408226.svg)](https://doi.org/10.5281/zenodo.23408226)
 
 This repository contains the source code and publication-level derived results for **DCPI-RWR**, a degree-conditioned, pathway-integrated network-diffusion framework, together with a cancer-adaptive supra-network extension and a cross-release multicancer benchmark.
 
@@ -104,7 +105,7 @@ python verify_release.py
 
 ## Citation
 
-Please cite the software release described in [`CITATION.cff`](CITATION.cff). A version-specific Zenodo DOI will be added after the independent `v1.0.0` release is archived.
+Please cite the software release described in [`CITATION.cff`](CITATION.cff). The immutable `v1.0.0` archive is available at [https://doi.org/10.5281/zenodo.23408226](https://doi.org/10.5281/zenodo.23408226).
 
 ## License
 
