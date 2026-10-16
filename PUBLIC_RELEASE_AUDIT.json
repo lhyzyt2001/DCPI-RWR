@@ -1,0 +1,21 @@
+{
+  "package": "DCPI-RWR",
+  "version": "1.0.0",
+  "created": "2026-10-16",
+  "independent_repository": true,
+  "independent_git_history": true,
+  "previous_repository_modified": false,
+  "previous_zenodo_record_modified": false,
+  "included_analysis_trees": [
+    "code",
+    "code_upgrade",
+    "code_upgrade2",
+    "results",
+    "results_upgrade",
+    "results_upgrade2"
+  ],
+  "candidate_characterization_entry_point": "code/09_characterize_dcpi_candidates.py",
+  "cptac_candidate_metadata_corrected": true,
+  "legacy_provenance_policy": "Earlier positive-unlabelled and multiview-GCN analyses are retained only as explicitly labelled provenance and sensitivity material; they are not components of the primary DCPI-RWR method.",
+  "scientific_change": "None. Inputs, splits, fitted predictions, result tables, candidate lists, performance values and statistical conclusions are unchanged; only public-release metadata and portability descriptions were corrected."
+}

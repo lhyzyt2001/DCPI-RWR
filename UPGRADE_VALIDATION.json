@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "checks": {
+    "six_cancers": true,
+    "seven_methods": true,
+    "one_row_per_cancer_method": true,
+    "finite_bounded_metrics": true,
+    "boundary_original_matches_primary": true,
+    "PU_1000_replicates_per_incomplete_scenario": true,
+    "cluster_bootstrap_10000_per_method_unit": true,
+    "LUAD_null_2000": true,
+    "eight_nonempty_figure_files": true,
+    "snapshot_manifest_rows": 312,
+    "snapshot_hash_mismatches": 0,
+    "snapshot_integrity": true,
+    "original_vs_snapshot_hash_mismatches": 0,
+    "original_still_matches_snapshot": true
+  }
+}

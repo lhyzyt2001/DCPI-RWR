@@ -1,0 +1,32 @@
+{
+  "title": "DCPI-RWR: cross-release multicancer gene prioritization with degree-conditioned and cancer-adaptive network diffusion",
+  "upload_type": "software",
+  "description": "Source code and publication-level derived results for DCPI-RWR, a degree-conditioned pathway-integrated network-diffusion framework with a cancer-adaptive supra-network extension and a locked cross-release multicancer benchmark.",
+  "creators": [
+    {"name": "Zhang, Yuting"},
+    {"name": "Feng, Jihua"},
+    {"name": "Yang, Jiahui"},
+    {"name": "Chen, Zhongxing"},
+    {"name": "Li, Longfei"}
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-10-16",
+  "keywords": [
+    "gene prioritization",
+    "random walk with restart",
+    "network diffusion",
+    "network centrality",
+    "cross-release evaluation",
+    "multicancer"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lhyzyt2001/DCPI-RWR",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
+

@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "repository": "lhyzyt2001/DCPI-RWR",
+  "version": "1.0.0",
+  "file_count_excluding_manifest": 415,
+  "total_bytes_excluding_manifest": 133555222,
+  "python_file_count": 55,
+  "python_syntax_errors": [],
+  "json_errors": [],
+  "forbidden_metadata_hits": [],
+  "oversized_files": [],
+  "cptac_top20_exact_order_match": true,
+  "cptac_candidate_description_corrected": true,
+  "zenodo_repository_url_correct": true,
+  "citation_repository_url_correct": true
+}

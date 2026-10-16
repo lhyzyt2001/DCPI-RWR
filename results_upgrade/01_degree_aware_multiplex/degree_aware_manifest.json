@@ -1,0 +1,8 @@
+{
+  "primary_question": "Do established degree-aware or multiplex diffusion baselines outperform raw STRING-RWR or DCPI-RWR under the same cross-release endpoint?",
+  "DADA_boundary": "DADA-CD is a documented candidate-degree reference-model reimplementation using 200 nearest weighted-degree genes; it is not a bit-for-bit execution of the historical MATLAB package.",
+  "multiplex_definition": "RWR on a convex mixture of column-normalized layer transitions; restart selected using 26.03 cross-validation only.",
+  "selection_labels": "Open Targets 26.03 only",
+  "evaluation_labels": "incident Open Targets 26.06 labels among historical-unlabelled genes",
+  "bootstrap_replicates": 2000
+}

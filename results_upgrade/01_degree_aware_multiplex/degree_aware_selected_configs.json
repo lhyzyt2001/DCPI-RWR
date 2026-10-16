@@ -1,0 +1,194 @@
+{
+  "LUAD": {
+    "DADA optimistic uniform": {
+      "restart": 0.3,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.29709889339431306,
+      "historical_mean_Precision_at_100": 0.14133333333333334
+    },
+    "DADA-CD reference model": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.06911419319889431,
+      "historical_mean_Precision_at_100": 0.060000000000000005
+    },
+    "Degree-penalized RWR": {
+      "restart": 0.3,
+      "gamma": 0.25,
+      "historical_mean_AUPRC": 0.6485239092568883,
+      "historical_mean_Precision_at_100": 0.14066666666666666
+    },
+    "Multiplex-RWR STRING+pathway": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.7475885777570828,
+      "historical_mean_Precision_at_100": 0.14333333333333334
+    },
+    "Multiplex-RWR three-view": {
+      "restart": 0.3,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.7048670110898841,
+      "historical_mean_Precision_at_100": 0.13333333333333333
+    }
+  },
+  "BRCA": {
+    "DADA optimistic uniform": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.2372963608636205,
+      "historical_mean_Precision_at_100": 0.29733333333333334
+    },
+    "DADA-CD reference model": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.12819545236256444,
+      "historical_mean_Precision_at_100": 0.15266666666666667
+    },
+    "Degree-penalized RWR": {
+      "restart": 0.15,
+      "gamma": 0.5,
+      "historical_mean_AUPRC": 0.39587493759068715,
+      "historical_mean_Precision_at_100": 0.39466666666666667
+    },
+    "Multiplex-RWR STRING+pathway": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.46700182087529996,
+      "historical_mean_Precision_at_100": 0.43666666666666665
+    },
+    "Multiplex-RWR three-view": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.41559485359672865,
+      "historical_mean_Precision_at_100": 0.4086666666666667
+    }
+  },
+  "CRC": {
+    "DADA optimistic uniform": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.2716004261594709,
+      "historical_mean_Precision_at_100": 0.31133333333333335
+    },
+    "DADA-CD reference model": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.11016173863170152,
+      "historical_mean_Precision_at_100": 0.12733333333333333
+    },
+    "Degree-penalized RWR": {
+      "restart": 0.3,
+      "gamma": 0.25,
+      "historical_mean_AUPRC": 0.4298046589758286,
+      "historical_mean_Precision_at_100": 0.384
+    },
+    "Multiplex-RWR STRING+pathway": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.5132046484354955,
+      "historical_mean_Precision_at_100": 0.39066666666666666
+    },
+    "Multiplex-RWR three-view": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.46479088452662665,
+      "historical_mean_Precision_at_100": 0.36733333333333335
+    }
+  },
+  "PRAD": {
+    "DADA optimistic uniform": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.2592798736174305,
+      "historical_mean_Precision_at_100": 0.3373333333333334
+    },
+    "DADA-CD reference model": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.13256655123449387,
+      "historical_mean_Precision_at_100": 0.1753333333333333
+    },
+    "Degree-penalized RWR": {
+      "restart": 0.15,
+      "gamma": 0.5,
+      "historical_mean_AUPRC": 0.4340360906863708,
+      "historical_mean_Precision_at_100": 0.4233333333333333
+    },
+    "Multiplex-RWR STRING+pathway": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.5022673656519416,
+      "historical_mean_Precision_at_100": 0.444
+    },
+    "Multiplex-RWR three-view": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.4536469692951907,
+      "historical_mean_Precision_at_100": 0.4126666666666667
+    }
+  },
+  "MEL": {
+    "DADA optimistic uniform": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.2509030201721698,
+      "historical_mean_Precision_at_100": 0.258
+    },
+    "DADA-CD reference model": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.10843790283653049,
+      "historical_mean_Precision_at_100": 0.13933333333333334
+    },
+    "Degree-penalized RWR": {
+      "restart": 0.15,
+      "gamma": 0.5,
+      "historical_mean_AUPRC": 0.40116314949485427,
+      "historical_mean_Precision_at_100": 0.3486666666666667
+    },
+    "Multiplex-RWR STRING+pathway": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.45098578244928145,
+      "historical_mean_Precision_at_100": 0.35933333333333334
+    },
+    "Multiplex-RWR three-view": {
+      "restart": 0.3,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.3873660598256046,
+      "historical_mean_Precision_at_100": 0.32466666666666666
+    }
+  },
+  "OV": {
+    "DADA optimistic uniform": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.2506201245208671,
+      "historical_mean_Precision_at_100": 0.22533333333333333
+    },
+    "DADA-CD reference model": {
+      "restart": 0.15,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.10424724288455366,
+      "historical_mean_Precision_at_100": 0.132
+    },
+    "Degree-penalized RWR": {
+      "restart": 0.15,
+      "gamma": 0.25,
+      "historical_mean_AUPRC": 0.37581920739115293,
+      "historical_mean_Precision_at_100": 0.28933333333333333
+    },
+    "Multiplex-RWR STRING+pathway": {
+      "restart": 0.5,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.44127241086207586,
+      "historical_mean_Precision_at_100": 0.30133333333333334
+    },
+    "Multiplex-RWR three-view": {
+      "restart": 0.3,
+      "gamma": null,
+      "historical_mean_AUPRC": 0.3878190632312118,
+      "historical_mean_Precision_at_100": 0.2793333333333334
+    }
+  }
+}

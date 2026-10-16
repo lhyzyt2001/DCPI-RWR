@@ -1,0 +1,8 @@
+{
+  "selection_labels": "Open Targets 26.03 only",
+  "evaluation_labels": "Open Targets 26.06 incident labels among historical-unlabelled genes",
+  "performance_selection": "Highest 3-fold historical AUPRC; lower absolute degree correlation breaks ties.",
+  "bias_selection": "Lowest top-100 hub fraction among configurations retaining >=95% of maximum historical AUPRC.",
+  "LUAD_cell_layer": "Activity-reweighted STRING using packaged 15-cell-type TISCH profiles.",
+  "other_cancers_cell_layer": "Original packaged generic cell-type similarity graph; no cancer-specific single-cell data were available."
+}

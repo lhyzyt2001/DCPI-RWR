@@ -1,0 +1,8 @@
+{
+  "purpose": "Stress-test method ordering when only a subset of incident positives would have been observed.",
+  "SCAR": "Incident positives are retained uniformly without replacement.",
+  "degree_biased": "Incident positives are retained without replacement with probability proportional to sqrt(STRING degree + 1).",
+  "boundary": "Predictions are fixed. This analysis does not identify latent true positives and is not a causal or prevalence-corrected PU estimator.",
+  "replicates_per_incomplete_fraction": 1000,
+  "random_seed": 3342
+}

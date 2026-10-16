@@ -1,0 +1,6 @@
+﻿module,method,mean_AUPRC,mean_ROC_AUC,pooled_top100_hits,mean_top100_hub_fraction
+adaptive_supra_and_seed_weighting,Adaptive-supra bias-aware,0.043200996139012564,0.8981005629344244,35,0.6866666666666666
+adaptive_supra_and_seed_weighting,Adaptive-supra evidence-weighted,0.04430328934257772,0.9006100802816105,39,0.7050000000000001
+adaptive_supra_and_seed_weighting,Adaptive-supra performance,0.04567575776282129,0.9005575073251681,41,0.715
+adaptive_supra_and_seed_weighting,RWR-STRING,0.05255396184935058,0.9080010609163286,34,0.79
+propensity_proxy_PU,Degree-propensity-weighted bagged PU stack,0.019657351516543218,0.6162842383393949,22,0.215

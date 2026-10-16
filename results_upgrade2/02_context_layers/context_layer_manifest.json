@@ -1,0 +1,6 @@
+{
+  "scope": "LUAD only",
+  "boundary": "The graph is STRING reweighted by packaged TISCH cell-group activity. It is not a de novo cell-type regulatory network.",
+  "floor": 0.25,
+  "evaluation": "Open Targets 26.06 incident labels among 26.03-unlabelled genes"
+}

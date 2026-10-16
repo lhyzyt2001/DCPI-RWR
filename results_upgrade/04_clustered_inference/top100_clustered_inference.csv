@@ -1,0 +1,13 @@
+﻿method,reference,estimand,observed_difference,cluster,bootstrap_median,ci_lower,ci_upper,bootstrap_p_two_sided,cluster_sign_flip_p_two_sided,clusters,replicates
+DADA optimistic uniform,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-11.0,gene,-11.0,-21.0,-1.0,0.0327967203279672,0.03899610038996101,25213,10000
+DADA optimistic uniform,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-11.0,cancer,-11.0,-21.0,-2.0,0.0337966203379662,,6,10000
+DADA-CD reference model,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-24.0,gene,-24.0,-39.0,-10.0,0.00019998000199980003,0.0011998800119988001,25213,10000
+DADA-CD reference model,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-24.0,cancer,-24.0,-35.0,-12.0,0.00039996000399960006,,6,10000
+Degree-penalized RWR,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-7.0,gene,-7.0,-15.0,0.0,0.050994900509949,0.09259074092590741,25213,10000
+Degree-penalized RWR,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-7.0,cancer,-7.0,-13.0,-2.0,0.0327967203279672,,6,10000
+Multiplex-RWR STRING+pathway,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,6.0,gene,6.0,-7.0,19.0,0.388961103889611,0.4497550244975502,25213,10000
+Multiplex-RWR STRING+pathway,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,6.0,cancer,6.0,-5.0,16.0,0.30756924307569244,,6,10000
+Multiplex-RWR three-view,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-3.0,gene,-3.0,-15.0,8.0,0.6685331466853315,0.7419258074192581,25213,10000
+Multiplex-RWR three-view,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-3.0,cancer,-3.0,-10.0,3.0,0.48495150484951505,,6,10000
+DCPI-RWR performance,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,10.0,gene,10.0,-6.0,26.0,0.25577442255774424,0.29017098290170984,25213,10000
+DCPI-RWR performance,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,10.0,cancer,10.0,3.0,17.0,0.0021997800219978004,,6,10000

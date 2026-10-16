@@ -1,0 +1,6 @@
+{
+  "deployment_evaluation": "26.03 labels define seeds and configuration; incident 26.06 labels among historical-unlabelled genes define outcomes.",
+  "persistent_seed_warning": "Uses knowledge of 26.06 label persistence and is therefore diagnostic only, not an unbiased deployment evaluation.",
+  "network_snapshot_warning": "Historical STRING snapshots were unavailable in the package. Threshold and deterministic-dropout analyses test network-input robustness but do not establish fully prospective network freezing.",
+  "random_seed": 3242
+}

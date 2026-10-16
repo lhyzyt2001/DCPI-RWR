@@ -1,0 +1,31 @@
+﻿cancer,method,ROC_AUC,AUPRC,score_degree_spearman,incident_positives,top100_hits,top100_precision,top100_hub_fraction,module
+LUAD,RWR-STRING,0.8946792440274173,0.0330662932180638,0.969879452621333,120,6,0.06,0.59,adaptive_supra_and_seed_weighting
+LUAD,Adaptive-supra performance,0.8934334863911626,0.0363921003964699,0.9620209720093796,120,3,0.03,0.51,adaptive_supra_and_seed_weighting
+LUAD,Adaptive-supra bias-aware,0.885311772143475,0.0331542345091498,0.9532115451181268,120,1,0.01,0.48,adaptive_supra_and_seed_weighting
+LUAD,Adaptive-supra evidence-weighted,0.8945864111266387,0.0357264234425895,0.9617608327430122,120,2,0.02,0.51,adaptive_supra_and_seed_weighting
+BRCA,RWR-STRING,0.9000564313231101,0.0443861990434982,0.9713230315351492,134,4,0.04,0.88,adaptive_supra_and_seed_weighting
+BRCA,Adaptive-supra performance,0.9000571885872419,0.0429103142973523,0.9563210109331364,134,5,0.05,0.73,adaptive_supra_and_seed_weighting
+BRCA,Adaptive-supra bias-aware,0.8995325559966534,0.0424709750026962,0.9540120335478312,134,5,0.05,0.72,adaptive_supra_and_seed_weighting
+BRCA,Adaptive-supra evidence-weighted,0.8992623641543873,0.0433933686978478,0.9563652187476112,134,4,0.04,0.77,adaptive_supra_and_seed_weighting
+CRC,RWR-STRING,0.9228438890466724,0.090210524228706,0.9700627361962728,243,9,0.09,0.78,adaptive_supra_and_seed_weighting
+CRC,Adaptive-supra performance,0.907952636912213,0.0695049271914577,0.9545749833065328,243,11,0.11,0.72,adaptive_supra_and_seed_weighting
+CRC,Adaptive-supra bias-aware,0.9054748522387136,0.0645997745513829,0.9523444319689636,243,10,0.1,0.68,adaptive_supra_and_seed_weighting
+CRC,Adaptive-supra evidence-weighted,0.906851492038781,0.065336015667265,0.9547139079992178,243,10,0.1,0.68,adaptive_supra_and_seed_weighting
+PRAD,RWR-STRING,0.9353998514766252,0.0482408121979672,0.9707066609904256,78,2,0.02,0.81,adaptive_supra_and_seed_weighting
+PRAD,Adaptive-supra performance,0.931343721672174,0.0359228755484591,0.9558180557044706,78,5,0.05,0.72,adaptive_supra_and_seed_weighting
+PRAD,Adaptive-supra bias-aware,0.9306176995886568,0.035338418224092,0.9534844153742404,78,4,0.04,0.72,adaptive_supra_and_seed_weighting
+PRAD,Adaptive-supra evidence-weighted,0.9308655842714576,0.0344665787757082,0.9558192347108906,78,4,0.04,0.73,adaptive_supra_and_seed_weighting
+MEL,RWR-STRING,0.8901312855666541,0.0465931349870595,0.9691492656136144,106,5,0.05,0.89,adaptive_supra_and_seed_weighting
+MEL,Adaptive-supra performance,0.8758698087333971,0.0306034349127291,0.95428187243384,106,6,0.06,0.83,adaptive_supra_and_seed_weighting
+MEL,Adaptive-supra bias-aware,0.8741050786784995,0.0303931692864942,0.952050860349458,106,6,0.06,0.83,adaptive_supra_and_seed_weighting
+MEL,Adaptive-supra evidence-weighted,0.8772384447850285,0.0329433611383602,0.9548074454250138,106,8,0.08,0.83,adaptive_supra_and_seed_weighting
+OV,RWR-STRING,0.9048956640574928,0.0528268074208088,0.9689851419293428,156,8,0.08,0.79,adaptive_supra_and_seed_weighting
+OV,Adaptive-supra performance,0.8946882016548199,0.0587208942304596,0.9532436972811716,156,11,0.11,0.78,adaptive_supra_and_seed_weighting
+OV,Adaptive-supra bias-aware,0.8935614189605481,0.0532494052602603,0.9516994689199916,156,9,0.09,0.69,adaptive_supra_and_seed_weighting
+OV,Adaptive-supra evidence-weighted,0.8948561853133696,0.0539539883336956,0.9541747263932294,156,11,0.11,0.71,adaptive_supra_and_seed_weighting
+LUAD,Degree-propensity-weighted bagged PU stack,0.6428981167232315,0.0168560250214454,,120,2,0.02,0.29,propensity_proxy_PU
+BRCA,Degree-propensity-weighted bagged PU stack,0.7164056427688241,0.0256858842460278,,134,3,0.03,0.17,propensity_proxy_PU
+CRC,Degree-propensity-weighted bagged PU stack,0.4259311853745253,0.0155238659622922,,243,4,0.04,0.21,propensity_proxy_PU
+PRAD,Degree-propensity-weighted bagged PU stack,0.7519218841725112,0.0198702816213065,,78,1,0.01,0.15,propensity_proxy_PU
+MEL,Degree-propensity-weighted bagged PU stack,0.5677046790078549,0.0113847257748567,,106,3,0.03,0.13,propensity_proxy_PU
+OV,Degree-propensity-weighted bagged PU stack,0.5928439219894226,0.0286233264733307,,156,9,0.09,0.34,propensity_proxy_PU

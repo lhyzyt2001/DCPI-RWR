@@ -1,0 +1,11 @@
+{
+  "features": [
+    "cross-fitted STRING-RWR",
+    "cross-fitted adaptive supra performance",
+    "cross-fitted adaptive supra bias-aware",
+    "log1p STRING degree"
+  ],
+  "bags": 30,
+  "negative_sampling": "High degree-based historical-label propensity proxy",
+  "boundary": "This is a propensity-proxy PU sensitivity model, not an identified SAR-PU estimator. Publication count and true observation probabilities were unavailable."
+}

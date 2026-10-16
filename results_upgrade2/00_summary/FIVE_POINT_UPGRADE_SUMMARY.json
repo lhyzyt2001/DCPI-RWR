@@ -1,0 +1,10 @@
+{
+  "baseline_mean_AUPRC": 0.05255396184935058,
+  "best_mean_AUPRC_method": "RWR-STRING",
+  "best_mean_AUPRC": 0.05255396184935058,
+  "best_pooled_top100_method": "Adaptive-supra performance",
+  "best_pooled_top100_hits": 41,
+  "original_experiment_modified": false,
+  "github_modified": false,
+  "zenodo_modified": false
+}

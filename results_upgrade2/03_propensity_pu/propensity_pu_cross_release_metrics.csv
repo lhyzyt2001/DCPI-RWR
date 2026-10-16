@@ -1,0 +1,7 @@
+﻿cancer,method,ROC_AUC,AUPRC,incident_positives,top100_hits,top100_precision,top100_hub_fraction
+LUAD,Degree-propensity-weighted bagged PU stack,0.6428981167232315,0.016856025021445408,120,2,0.02,0.29
+BRCA,Degree-propensity-weighted bagged PU stack,0.7164056427688241,0.025685884246027864,134,3,0.03,0.17
+CRC,Degree-propensity-weighted bagged PU stack,0.42593118537452535,0.015523865962292258,243,4,0.04,0.21
+PRAD,Degree-propensity-weighted bagged PU stack,0.7519218841725112,0.01987028162130655,78,1,0.01,0.15
+MEL,Degree-propensity-weighted bagged PU stack,0.5677046790078549,0.01138472577485676,106,3,0.03,0.13
+OV,Degree-propensity-weighted bagged PU stack,0.5928439219894226,0.028623326473330785,156,9,0.09,0.34

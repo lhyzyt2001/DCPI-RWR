@@ -1,0 +1,9 @@
+{
+  "primary_unit": "unique gene; all cancer-specific Top-100 contributions for a sampled gene are retained together",
+  "secondary_unit": "cancer; all genes and methods for a sampled cancer are retained together",
+  "paired_estimand": "alternative minus RWR-STRING incident hits across six cancer-specific Top-100 lists",
+  "tie_break": "descending score, then ascending node identifier",
+  "replicates": 10000,
+  "LUAD_degree_matched_seed_null_replicates": 2000,
+  "random_seed": 3442
+}

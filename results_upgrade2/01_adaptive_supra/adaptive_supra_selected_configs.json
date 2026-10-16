@@ -1,0 +1,134 @@
+{
+  "LUAD": {
+    "performance": {
+      "restart": 0.3,
+      "switch": 0.25,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    },
+    "bias_aware_95pct": {
+      "restart": 0.5,
+      "switch": 0.25,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "evidence_weighted"
+    }
+  },
+  "BRCA": {
+    "performance": {
+      "restart": 0.5,
+      "switch": 0.1,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    },
+    "bias_aware_95pct": {
+      "restart": 0.5,
+      "switch": 0.25,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    }
+  },
+  "CRC": {
+    "performance": {
+      "restart": 0.5,
+      "switch": 0.1,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    },
+    "bias_aware_95pct": {
+      "restart": 0.5,
+      "switch": 0.25,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "evidence_weighted"
+    }
+  },
+  "PRAD": {
+    "performance": {
+      "restart": 0.5,
+      "switch": 0.1,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    },
+    "bias_aware_95pct": {
+      "restart": 0.5,
+      "switch": 0.25,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    }
+  },
+  "MEL": {
+    "performance": {
+      "restart": 0.5,
+      "switch": 0.1,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    },
+    "bias_aware_95pct": {
+      "restart": 0.5,
+      "switch": 0.25,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    }
+  },
+  "OV": {
+    "performance": {
+      "restart": 0.5,
+      "switch": 0.1,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "uniform"
+    },
+    "bias_aware_95pct": {
+      "restart": 0.5,
+      "switch": 0.25,
+      "layer_weights": [
+        0.6,
+        0.0,
+        0.4
+      ],
+      "seed_mode": "evidence_weighted"
+    }
+  }
+}

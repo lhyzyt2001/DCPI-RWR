@@ -1,0 +1,24 @@
+{
+  "created_date": "2026-10-13",
+  "analysis_root": "repository root",
+  "preserved_snapshot": "not distributed; retained outside the public release",
+  "original_GitHub_modified": false,
+  "original_Zenodo_modified": false,
+  "endpoint": "Open Targets 26.03 seeds/configuration; incident 26.06 evidence among 26.03-unlabelled genes",
+  "python": "3.11.3",
+  "platform": "Windows 11",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "torch": "2.6.0",
+    "matplotlib": "3.8.3"
+  },
+  "replicates": {
+    "paired_AUPRC_bootstrap": 2000,
+    "PU_incomplete_fraction": 1000,
+    "Top100_clustered_bootstrap": 10000,
+    "LUAD_degree_matched_seed_null": 2000
+  }
+}

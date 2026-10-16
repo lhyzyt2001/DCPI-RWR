@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": {
+    "adaptive_6_cancers_x_4_methods": true,
+    "adaptive_oof_complete": true,
+    "PU_six_cancers": true,
+    "LUAD_six_contexts_plus_baseline": true,
+    "expression_three_methods": true,
+    "bounded_metrics": true,
+    "clustered_inference_four_methods_two_units": true,
+    "required_manifests": true,
+    "original_snapshot_hash_mismatches": 0,
+    "original_snapshot_unchanged": true
+  },
+  "snapshot_mismatches": []
+}

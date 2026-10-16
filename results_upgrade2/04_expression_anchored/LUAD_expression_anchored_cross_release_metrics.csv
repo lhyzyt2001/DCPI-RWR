@@ -1,0 +1,4 @@
+﻿method,ROC_AUC,AUPRC,top100_hits,top100_precision,top100_hub_fraction
+Evidence-weighted clinical RWR,0.8961156584814002,0.03244963448598846,6,0.06,0.61
+TCGA expression-aberration diffusion,0.6793924269647966,0.007361712644832852,0,0.0,0.01
+Expression-anchored dual-source consensus,0.7933586211485992,0.023794892409943823,6,0.06,0.46

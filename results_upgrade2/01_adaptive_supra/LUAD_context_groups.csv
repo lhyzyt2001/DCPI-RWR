@@ -1,0 +1,7 @@
+﻿group,members,mean_activity
+Epithelial,Epithelial,0.10702752218505465
+Fibrovascular,Fibroblasts;Endothelial,0.10118223214378745
+Myeloid_DC,pDC;cDC2;Monocyte;M2,0.09605229757432833
+T_cell,CD4Tn;CD8Tem;CD8Tcm;CD8Tex,0.07080761917166183
+B_Plasma,B;Plasma,0.07480509736610631
+Mast,Mast,0.07448175042787511

@@ -1,0 +1,9 @@
+﻿method,reference,estimand,observed_difference,cluster,bootstrap_median,ci_lower,ci_upper,bootstrap_p_two_sided,cluster_sign_flip_p_two_sided,clusters,replicates
+Adaptive-supra performance,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,7.0,gene,7.0,-5.0,19.0,0.2987701229877012,0.33966603339666035,25213,10000
+Adaptive-supra performance,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,7.0,cancer,7.0,-4.0,15.0,0.2091790820917908,,6,10000
+Adaptive-supra bias-aware,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,1.0,gene,1.0,-10.0,12.0,0.9337066293370663,1.0,25213,10000
+Adaptive-supra bias-aware,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,1.0,cancer,1.0,-12.0,9.0,0.8107189281071893,,6,10000
+Adaptive-supra evidence-weighted,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,5.0,gene,5.0,-6.0,17.0,0.43095690430956907,0.5070492950704929,25213,10000
+Adaptive-supra evidence-weighted,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,5.0,cancer,5.5,-8.0,15.0,0.4333566643335666,,6,10000
+Degree-propensity-weighted bagged PU stack,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-12.0,gene,-12.0,-28.0,3.0,0.13978602139786023,0.17748225177482252,25213,10000
+Degree-propensity-weighted bagged PU stack,RWR-STRING,pooled six-cancer Top-100 incident-hit difference,-12.0,cancer,-12.0,-22.0,-3.0,0.015198480151984802,,6,10000

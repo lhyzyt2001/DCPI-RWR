@@ -1,0 +1,7 @@
+{
+  "tumor_samples": 517,
+  "adjacent_normal_samples": 59,
+  "mapped_genes": 15640,
+  "top_aberrant_genes_per_tumor": 100,
+  "boundary": "Patient expression profiles determine a cohort restart distribution. Mutation, CNV and methylation were unavailable, and packaged STRING is effectively undirected; this is an exploratory dual-source consensus, not a full directional NetICS-style multi-omics analysis."
+}
